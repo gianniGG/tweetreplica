@@ -1,0 +1,160 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.form-control {
+width: 100px;
+margin-top: 5px;
+font-size: 14px;
+color: #555;
+vertical-align: middle;
+background-color: #ccc;
+border: 1px solid #ccc;
+border-radius: 45px;
+-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+-webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.visuallyhidden {
+border: 0;
+clip: rect(0 0 0 0);
+height: 1px;
+margin: -1px;
+overflow: hidden;
+padding: 0;
+position: absolute;
+width: 1px;
+}
+
+h1 {
+font-size: 24px;
+font-weight: bold;
+line-height: 1;
+}
+.global-nav .container {
+width: 865px;
+text-align: center;
+}
+
+.nav-pills {
+	margin-top: 5px;
+}
+
+.navbar-collapse {
+	background: url('http://www.flaticon.com/png/64/23681.png') no-repeat center;
+	background-size: 3%;
+}
+
+
+.search-btn {
+background: #ccc;
+margin-top: 5px;
+height: 34px;
+border-top-right-radius: 45px;
+border-bottom-right-radius: 45px;
+}
+
+.search-bar {
+width: 200px;
+height: 34px;
+margin-top: 2px;
+
+}
+
+.input-group form-control {
+width: 10;
+margin-bottom: 0;
+background-color: #ccc;
+margin-top: 10px
+}
+
+
+.btn-default-icon {
+margin-top: 2px;
+background: -webkit-linear-gradient(top, #3c3c3c, #222);
+background: -moz-linear-gradient(top, #3c3c3c, #222);
+background: -o-linear-gradient(top, #3c3c3c, #222);
+background: linear-gradient(top, #3c3c3c, #222);
+border:1px solid #222;
+}
+
+.navbar-inverse {
+background-image: -webkit-linear-gradient(top,#3c3c3c,0%,#222,100%);
+background-image: -moz-linear-gradient(top,#3c3c3c 0,#222 100%);
+background-image: linear-gradient(to bottom,#3c3c3c 0,#222 100%);
+background-repeat: repeat-x;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3c3c3c',endColorstr='#ff222222',GradientType=0);
+}
+
+.jumbotron {
+	background: url('http://www.digitaltrends.com/wp-content/uploads/2013/02/twitter.jpg');
+	 opacity: 1;
+	 background-size: cover;
+}
+
+
+
+.tweet {
+	text-align: right;
+}
+
+#twitter-widget-0{
+	width:760px;
+}
+.thumbnail {
+	background: url(../img/background.jpg);
+	background-size: 568px 453px;
+	opacity: 0.8;
+	background-repeat: no-repeat;
+}
+
+.media-object {
+	border-radius: 15px;
+	border: solid white;
+}
+
+h3 {
+	color: #d8d8d8;
+}
+h4 {
+	color: #d8d8d8;
+	opacity: 1;
+}
+h5{ color: #d8d8d8}
+
+.navbar-collapse {
+background: url('') no-repeat center;
+background-size: 3%;
+font-size: 15px;
+}
+
+
+.container{
+	padding-bottom:2px;
+}
+
+.btn-profile {
+	border-radius: 5px;
+	position: right;
+	background-color: #f6f6f6;
+	border:  solid grey;
+	border-radius: 15px;
+}
+
+.list-group {
+	font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
